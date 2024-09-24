@@ -9,6 +9,9 @@ function verifyAge (age) {
 
 };
 
-const result = verifyAge(15);
+const result1 = verifyAge(25);
+console.log(result);
+
+const result2 = verifyAge(15);
 console.log(result);
 
